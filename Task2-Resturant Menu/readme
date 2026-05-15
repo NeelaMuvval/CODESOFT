@@ -1,0 +1,16 @@
+# Restaurant Menu UI
+
+This project was created as part of the CodSoft UI/UX Internship.
+
+## Figma Design Link
+https://www.figma.com/design/oz4bLVjKtfrTy9hgsuJaJy/Restaurant-Menu?node-id=0-1&t=MNPY1qrlHDKNn5Dz-1
+
+## Features
+- Category navigation
+- Search bar
+- Food cards with images, descriptions, and prices
+- Offer banner
+- Responsive desktop layout
+
+## Tools Used
+- Figma
